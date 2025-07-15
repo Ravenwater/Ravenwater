@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenwater&hide=html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravenwater)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravenwater)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravenwater&theme=github-light)
