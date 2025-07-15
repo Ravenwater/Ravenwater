@@ -18,4 +18,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravenwater&hide=html)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravenwater)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravenwater)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravenwater&theme=github-light)
+
+
+- 🔭 I’m currently working on embodied AI solutions at [Branes.ai](https://branes.ai)
+- 👯 I’m looking to collaborate on
+  - mixed-precision and quantization methods using [Universal](https://github.com/stillwater-sc/universal)
+  - high-performance Linear Algebra library that is mixed-precision sensitive and can take advantage of super-accumulators to manage rounding events
+  - high-performance Embodied AI platform that organizes Model Predictive Control with AI models in the loop, leveraging multi-rate control loops and concurrency control
+  - anything MLIR dialect related to data flow and domain flow hardware
